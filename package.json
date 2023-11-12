@@ -1,0 +1,22 @@
+{
+  "name": "testhotel",
+  "version": "1.0.0",
+  "description": "testHotel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SIS-VIDA-EdgarQuintero/testHotel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SIS-VIDA-EdgarQuintero/testHotel/issues"
+  },
+  "homepage": "https://github.com/SIS-VIDA-EdgarQuintero/testHotel#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
